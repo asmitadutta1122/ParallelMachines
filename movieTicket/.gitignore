@@ -1,0 +1,18 @@
+*.class
+
+target/
+movieTicket/target/
+.classpath
+.project
+.settings
+.metadata
+.recommenders
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*~
